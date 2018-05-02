@@ -2,7 +2,7 @@
 Basic Computer Vision code to get you started
 
 # Git Commands
-git --version
+git --version \n
 mkdir GitHub
 git clone https://github.com/shalomruben/SampleCV.git
 git add *
